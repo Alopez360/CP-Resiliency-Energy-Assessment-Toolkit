@@ -5,4 +5,4 @@ This tool is similar to ARUP's SolarResilient tool but made to be more open for 
 
 The project references several other softwares and sources for equations. These references and credit to them are included in our final report which can be found in Cal Poly's senior project library.
 
-This toolkit uses a combination of excel and MATLAB. Within each branch you will find the corresponding file for each tool/code
+This toolkit uses a combination of excel and MATLAB. Within each branch you will find the corresponding file for each tool/code. A manual on how to use each component is located in this main branch. 
